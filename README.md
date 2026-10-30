@@ -1,4 +1,4 @@
-# Job Seeker AI Agent 🕵️‍♂️
+# .Job Seeker AI Agent 🕵️‍♂️
 
 A modular, AI-powered web application designed to assist job seekers by analyzing resumes, finding relevant job listings, scoring matches, and generating tailored application kits.
 
